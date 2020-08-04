@@ -2,10 +2,10 @@
 
 ## Profiel photo
 
-![Profile photo](./yoshfiumi_400x400.jpg)
+![Profile photo](https://github.com/ymotongpoo/ymotongpoo/blob/master/yoshfiumi_400x400.jpg)
 
-* [400x400](./yoshifumi_400x400.jpg)
-* [1961x1961](./yoshifumi_1961x1961.jpg)
+* [400x400](https://github.com/ymotongpoo/ymotongpoo/blob/master/yoshfiumi_400x400.jpg)
+* [1961x1961](https://github.com/ymotongpoo/ymotongpoo/blob/master/yoshifumi_1961x1961.jpg)
 
 ## Bio
 
