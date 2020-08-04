@@ -1,6 +1,6 @@
 # Yoshi Yamguchi (@ymotongpoo)
 
-## Profiel photo
+## Profile photo
 
 ![Profile photo](https://github.com/ymotongpoo/ymotongpoo/blob/master/yoshfiumi_400x400.jpg)
 
