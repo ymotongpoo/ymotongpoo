@@ -12,3 +12,7 @@ See some patterns of [biographies](./biography.md)
 ## Talks/Sessoins
 
 Find the list of [talks](./talks.md)
+
+## Interviews
+
+* [OpenTelemetry in Japanese](https://medium.com/opentelemetry/opentelemetry-in-japanese-84d39387e99b)
