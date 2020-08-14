@@ -7,11 +7,11 @@
 
 ## Bio
 
-See some patterns of [biographies](./biography.md)
+See some patterns of [biographies](https://github.com/ymotongpoo/ymotongpoo/blob/master/biography.md)
 
 ## Talks/Sessoins
 
-Find the list of [talks](./talks.md)
+Find the list of [talks](https://github.com/ymotongpoo/ymotongpoo/blob/master/talks.md)
 
 ## Interviews
 
@@ -21,4 +21,4 @@ Find the list of [talks](./talks.md)
 
 ## Others
 
-* [Keyboards](./keyboards.md)
+* [Keyboards](https://github.com/ymotongpoo/ymotongpoo/blob/master/keyboards.md)
