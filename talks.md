@@ -9,6 +9,7 @@
 
 ### Japan
 
+* Oct 10th: Fuzzing and PBT in Go at [Go Conference Sendai](https://sendai.gocon.jp/) [[slide](https://bit.ly/20201010-gocon-sendai)]
 * July 14th: New telemetry package and COVID-19 Exposure Notification Key Server at [Fukuoka.go](https://fukuokago.connpass.com/event/180414/) [[slide](https://bit.ly/20200714-exposure-notification)]
 * March 17th: Continuous pprof at Observability Japan Online #1 [[slide](https://docs.google.com/presentation/d/1NhAvLsbxagr7rnOUBs92X4EhEwZLE8hieAzLj-6zuo0/edit?usp=sharing)]
 
