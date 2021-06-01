@@ -7,7 +7,7 @@ Yoshi Yamaguchi is a developer advocate on Google Cloud Platform at Google, wher
 
 ## Mid bio
 
-Yoshi Yamaguchi is a developer advocate on Google Cloud Platform at Google, where he works on system Observability; Especially Yoshi is working mainly on Stackdriver, OpenTelemetry and other Observability related OSS. Yoshi has been leading and supporting developer communities over 10 years. Previously, Yoshi was in Developer Relation team for many client side technologies, where he drove a lot of launch projects of new products such as Chromecast, Android Wear, Google Assistant, et al.
+Yoshi Yamaguchi is a developer advocate on Google Cloud Platform at Google, where he works on system Observability; Especially Yoshi is working mainly on Cloud Operations product suite, OpenTelemetry and other Observability related OSS. Yoshi has been leading and supporting developer communities over 10 years. Previously, Yoshi was in Developer Relation team for many client side technologies, where he drove a lot of launch projects of new products such as Chromecast, Android Wear, Google Assistant, et al.
 (74 words, 491 chars)
 
 ## プロフィール
