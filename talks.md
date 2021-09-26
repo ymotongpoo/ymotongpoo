@@ -1,5 +1,13 @@
 # Talks
 
+## 2021
+
+### Japan
+
+* September 9th: [SREの理念と原則](https://bit.ly/20210909-sregaps) at [SRE Gaps](https://forkwell.connpass.com/event/221830/)[[video](https://www.youtube.com/watch?v=CEn3e8JxgtY)]
+* August 28th: [安定運用や迅速な開発に役立つオブザーバビリティとOpenTelemetry](https://bit.ly/20210828-odc2021-otel)[[video](https://www.youtube.com/watch?v=w0BBzQFtMN8)]
+* February 26th: [Examplar Traceの話)(https://bit.ly/20210226-gcpug-trace)
+
 ## 2020
 
 ### Global
@@ -9,7 +17,7 @@
 
 ### Japan
 
-* Oct 10th: Fuzzing and PBT in Go at [Go Conference Sendai](https://sendai.gocon.jp/) [[slide](https://bit.ly/20201010-gocon-sendai)][[video](https://youtu.be/bbjEJ-lq2EY)]
+* October 10th: Fuzzing and PBT in Go at [Go Conference Sendai](https://sendai.gocon.jp/) [[slide](https://bit.ly/20201010-gocon-sendai)][[video](https://youtu.be/bbjEJ-lq2EY)]
 * July 14th: New telemetry package and COVID-19 Exposure Notification Key Server at [Fukuoka.go](https://fukuokago.connpass.com/event/180414/) [[slide](https://bit.ly/20200714-exposure-notification)]
 * March 17th: Continuous pprof at Observability Japan Online #1 [[slide](https://docs.google.com/presentation/d/1NhAvLsbxagr7rnOUBs92X4EhEwZLE8hieAzLj-6zuo0/edit?usp=sharing)]
 
