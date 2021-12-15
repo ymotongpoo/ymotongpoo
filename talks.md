@@ -6,7 +6,7 @@
 
 * September 9th: [SREの理念と原則](https://bit.ly/20210909-sregaps) at [SRE Gaps](https://forkwell.connpass.com/event/221830/)[[video](https://www.youtube.com/watch?v=CEn3e8JxgtY)]
 * August 28th: [安定運用や迅速な開発に役立つオブザーバビリティとOpenTelemetry](https://bit.ly/20210828-odc2021-otel)[[video](https://www.youtube.com/watch?v=w0BBzQFtMN8)]
-* February 26th: [Examplar Traceの話)(https://bit.ly/20210226-gcpug-trace)
+* February 26th: [Examplar Traceの話](https://bit.ly/20210226-gcpug-trace)
 
 ## 2020
 
