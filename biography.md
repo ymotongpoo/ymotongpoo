@@ -2,13 +2,13 @@
 
 ## Shrot bio
 
-Yoshi Yamaguchi is a developer advocate on Google Cloud, where he works on system observability. Yoshi has been leading and supporting developer communities over 10 years.
-(26 words, 171 chars)
+Yoshi Yamaguchi is Senior Developer Advocate at Google Cloud, where he focuses on Observability and SRE. Yoshi has been leading and supporting developer communities in Japan over 10 years.
+(29 words, 188 characters)
 
 ## Mid bio
 
-Yoshi Yamaguchi is a developer advocate on Google Cloud, where he works on system Observability; Especially Yoshi is working mainly on Cloud Operations product suite, OpenTelemetry and other Observability related OSS. Yoshi has been leading and supporting developer communities over 10 years. Previously, Yoshi was in Developer Relation team for many client side technologies, where he drove a lot of launch projects of new products such as Chromecast, Android Wear, Google Assistant, et al.
-(74 words, 491 chars)
+Yoshi Yamaguchi is Senior Developer Advocate at Google Cloud, where he focuses on Observability and SRE; Especially Yoshi is working mainly on Cloud Operations product suite, OpenTelemetry and other Observability related OSS. Yoshi has been leading and supporting developer communities in Japan over 10 years. Previously, Yoshi was in Developer Relations team for many client side technologies, where he drove a lot of launch projects of new products such as YouTube, Chromecast, Android, Google Assistant, et al.
+(77 words, 513 characters)
 
 ## プロフィール
 
