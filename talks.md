@@ -1,5 +1,16 @@
 # Talks
 
+## 2022
+
+### Global
+
+* [Is it Observabile?: How to instrument your code with OpenTelemetry](https://isitobservable.io/open-telemetry/traces/how-to-instrument-your-code-using-opentelemetry)
+
+### Japan
+
+* March 11th: [OpenTelemetryのこれまでとこれから](https://bit.ly/20220311-o11yconf-otel) at [Observability Conference 2022](https://event.cloudnativedays.jp/o11y2022) [[video](https://event.cloudnativedays.jp/o11y2022/talks/1347)]
+* February 18th: [Fuzzing](https://bit.ly/20220218-go118-fuzzing) at [Go 1.18 Release Party](https://gocon.connpass.com/event/234198/) [[video](https://www.youtube.com/watch?v=UhWWLiZMZfg)]
+
 ## 2021
 
 ### Japan
