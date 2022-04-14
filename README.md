@@ -1,4 +1,6 @@
-# Yoshi Yamguchi (@ymotongpoo)
+# Hi! I'm Yoshi (@ymotongpoo)
+
+I'm a Developer Relations Engineer at Google Cloud. I'm enjoying wroking for Observability and SRE practices spaces. You can find me on [Twitter](https://twitter.com/ymotongpoo) and [LinkedIn](https://www.linkedin.com/in/yoshifumiyamaguchi/).
 
 ## Profile photo
 
