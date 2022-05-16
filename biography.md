@@ -1,5 +1,11 @@
 # Biography
 
+## Title
+
+Senior Developer Advocate, Google
+
+グーグル合同会社 シニアデベロッパーアドボケイト
+
 ## Shrot bio
 
 Yoshi Yamaguchi is Senior Developer Advocate at Google Cloud, where he focuses on Observability and SRE. Yoshi has been leading and supporting developer communities in Japan over 10 years.
@@ -12,9 +18,9 @@ Yoshi Yamaguchi is Senior Developer Advocate at Google Cloud, where he focuses o
 
 ## プロフィール（小）
 
-グーグル合同会社デベロッパーアドボケイト。クラウド製品の普及と技術支援を担当し、特にオブザーバビリティ領域とSite Reliability Engineering領域を担当。(88文字)
+グーグル合同会社シニアデベロッパーアドボケイト。クラウド製品の普及と技術支援を担当し、特にオブザーバビリティ領域とSite Reliability Engineering領域を担当。(91文字)
 
 ## プロフィール（中）
 
-グーグル合同会社デベロッパーアドボケイト。クラウド製品の普及と技術支援を担当し、特にオブザーバビリティ領域とSite Reliability Engineering領域を担当。OpenTelemetryやGoのコミュニティの支援も活発に行っている。以前はウェブ、Android、Googleアシスタントなどと各種新規製品・新規機能のリリースと普及に関わり、多くの公開事例の技術支援を担当。好きなプログラミング言語の傾向は、実用指向で標準の必要十分に重きを置くもので、特にGoやPythonを好んでいる。
-(251文字)
+グーグル合同会社シニアデベロッパーアドボケイト。クラウド製品の普及と技術支援を担当し、特にオブザーバビリティ領域とSite Reliability Engineering領域を担当。OpenTelemetryやGoのコミュニティの支援も活発に行っている。以前はウェブ、Android、Googleアシスタントなどと各種新規製品・新規機能のリリースと普及に関わり、多くの公開事例の技術支援を担当。好きなプログラミング言語の傾向は、実用指向で標準の必要十分に重きを置くもので、特にGoやPythonを好んでいる。
+(254文字)
