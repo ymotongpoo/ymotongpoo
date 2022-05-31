@@ -4,10 +4,15 @@
 
 ### Global
 
+* April 7th: [Developer Demo: Instrument your Apps for Traces
+](https://opensourcelive.withgoogle.com/events/opentelemetry-day-2022/watch?talk=session-2) at [OpenTelemetry Day on Google Open Source Live](https://opensourcelive.withgoogle.com/events/opentelemetry-day-2022)
+* March 29th: [Better Observability with profiling](https://google.brandlive.com/innovators-hive-2022/en/session/b554412e-73d4-11ec-be90-413af072eec7) on [Innovators Hive](https://google.brandlive.com/innovators-hive-2022/en)
 * [Is it Observabile?: How to instrument your code with OpenTelemetry](https://isitobservable.io/open-telemetry/traces/how-to-instrument-your-code-using-opentelemetry)
 
 ### Japan
 
+* May 15th: [SLO決定のためのThe Art of SLOs
+](https://bit.ly/20220515-srenext2022) at [SRE NEXT 2022](https://sre-next.dev/2022/)
 * March 11th: [OpenTelemetryのこれまでとこれから](https://bit.ly/20220311-o11yconf-otel) at [Observability Conference 2022](https://event.cloudnativedays.jp/o11y2022) [[video](https://event.cloudnativedays.jp/o11y2022/talks/1347)]
 * February 18th: [Fuzzing](https://bit.ly/20220218-go118-fuzzing) at [Go 1.18 Release Party](https://gocon.connpass.com/event/234198/) [[video](https://www.youtube.com/watch?v=UhWWLiZMZfg)]
 
