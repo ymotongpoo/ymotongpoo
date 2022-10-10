@@ -18,7 +18,7 @@ Find the list of [talks](https://github.com/ymotongpoo/ymotongpoo/blob/master/ta
 
 ## Interviews
 
-* September 28th, 2022: 「信頼性の呪縛 DXの停滞を招く障害ゼロの御旗 『SRE』が攻守の指針を照らし出す」 at 日経FinTech Monthly Newsletter No.78
+* September 28th, 2022: [信頼性の呪縛 DXの停滞を招く障害ゼロの御旗 『SRE』が攻守の指針を照らし出す](https://xtech.nikkei.com/atcl/nxt/mag/nft/21/040100002/092200021/) at 日経FinTech Monthly Newsletter No.78
 * August 31st, 2022: [信頼性高くシステム開発運用グーグル、SREの実践例報告](https://dempa-digital.com/article/349020)
 * August 30th, 2022: [「なんでも屋にはならない」 - SREを導入したJCBが感じた効果とは？](https://news.mynavi.jp/techplus/article/20220830-2438301/)
 * August 30th, 2022: [グーグル・クラウドがシステム管理の方法論「サイト信頼性エンジニアリング」を解説](https://cloud.watch.impress.co.jp/docs/news/1435726.html)
