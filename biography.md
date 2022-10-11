@@ -8,7 +8,7 @@ Senior Developer Relations Engineer, Google
 
 ## Shrot bio
 
-Yoshi Yamaguchi is Senior Developer Relations Engineer at Google Cloud, where he focuses on Observability and SRE. Yoshi has been leading and supporting developer communities in Japan over 10 years.
+Yoshi Yamaguchi is Senior Developer Relations Engineer at Google Cloud, where he focuses on Observability and SRE. Yoshi has been leading and supporting developer communities  Japan over 10 years.
 (29 words, 188 characters)
 
 ## Mid bio
