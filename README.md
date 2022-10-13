@@ -16,6 +16,13 @@ See some patterns of [biographies](https://github.com/ymotongpoo/ymotongpoo/blob
 
 Find the list of [talks](https://github.com/ymotongpoo/ymotongpoo/blob/master/talks.md)
 
+## Organizing
+
+* [Go Conference](https://gocon.jp) (2013-present)
+  * The original main organizer of [Go Conference in Tokyo](https://gocon.jp)
+* [SREcon Asia/Pacific 2022](https://www.usenix.org/conference/srecon22apac)
+  * A member of Program Committee
+
 ## Interviews
 
 * September 28th, 2022: [信頼性の呪縛 DXの停滞を招く障害ゼロの御旗 『SRE』が攻守の指針を照らし出す](https://xtech.nikkei.com/atcl/nxt/mag/nft/21/040100002/092200021/) at 日経FinTech Monthly Newsletter No.78
