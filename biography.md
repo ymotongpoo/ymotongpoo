@@ -1,10 +1,12 @@
 # Biography
 
-## Title
+## Name/Title
 
+Yoshi Yamaguchi
 Senior Developer Relations Engineer, Google
 
 グーグル合同会社 シニアデベロッパーリレーションズエンジニア
+山口能迪　（読み:　やまぐちよしふみ）
 
 ## Shrot bio
 
