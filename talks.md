@@ -15,7 +15,6 @@
 * November 30th: SREの実践のためのオブザーバビリティ at [ElasticOn Tokyo](https://www.elasticon.com/event/d10b9524-5bd9-4355-aa2e-f01b63580506/summary)
 * November 21st: [SLO策定のIaC化によるSREの加速](https://event.cloudnativedays.jp/cndt2022/talks/1580) at [CloudNative Days Tokyo 2022](https://event.cloudnativedays.jp/cndt2022)
 * November 9th: SREとエラーバジェット at [SKILup Festival Japan - Site Reliability Engineering (SRE) DAY](https://www.topout.co.jp/information/20221017-1)
-* 
 * August 15th: [What's new in Go 1.19](https://docs.google.com/presentation/d/1FkXdI9oR8mUCzh-woca7O3K_T5iZCirp7QcoJY3d4Wk/edit?usp=sharing) at [Go 1.19 Release Party](https://gocon.connpass.com/event/253355/)
 * July 26th: [ビジネスを加速するオブザーバビリティ](https://docs.google.com/presentation/d/1SZNbs9QnOoEBzRKgB3e42MgHEmPasGpVmf2XMZP6pDM/edit?usp=sharing) at [Splunk Live! 2022](https://www.splunklive.jp/)
 * June 8th: [サイト信頼性エンジニアリングによるユーザー満足度を向上させるシステム運用](https://docs.google.com/presentation/d/149ouWWW0s6m8wMchIwkGHoUT7We90nnJGFR3NHXWdzM/edit?usp=sharing) at [Ops Summit 2022](https://www.kompira.jp/opssummit2022/#special)
