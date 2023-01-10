@@ -4,6 +4,7 @@
 
 ### Global
 
+* November 17th: [Capabilities for Building High-performing Technology Teams](https://devops.talksplus.com/storage/files/presentations/1670479309.pdf) at [DevOps Talks Conference in Singapore 2022](https://devops.talksplus.com/archive/2022_singapore/agenda)
 * April 7th: [Developer Demo: Instrument your Apps for Traces
 ](https://opensourcelive.withgoogle.com/events/opentelemetry-day-2022/watch?talk=session-2) at [OpenTelemetry Day on Google Open Source Live](https://opensourcelive.withgoogle.com/events/opentelemetry-day-2022)
 * March 29th: [Better Observability with profiling](https://google.brandlive.com/innovators-hive-2022/en/session/b554412e-73d4-11ec-be90-413af072eec7) on [Innovators Hive](https://google.brandlive.com/innovators-hive-2022/en)
