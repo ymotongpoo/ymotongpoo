@@ -18,6 +18,8 @@ Find the list of [talks](https://github.com/ymotongpoo/ymotongpoo/blob/master/ta
 
 ## Organizing
 
+* [SREcon Asia/Pacific 2023](https://www.usenix.org/conference/srecon23apac)
+  * A member of Program Committee
 * [Go Conference](https://gocon.jp) (2013-present)
   * The original main organizer of [Go Conference in Tokyo](https://gocon.jp)
 * [SREcon Asia/Pacific 2022](https://www.usenix.org/conference/srecon22apac)
