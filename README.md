@@ -2,6 +2,9 @@
 
 I'm a Developer Relations Engineer at Google Cloud. I'm enjoying wroking for Observability and SRE practices spaces. You can find me on [Twitter](https://twitter.com/ymotongpoo) and [LinkedIn](https://www.linkedin.com/in/yoshifumiyamaguchi/).
 
+![SREcon APAC 22 PC](https://img.shields.io/badge/SREcon22APAC-PROGRAMME%20COMMITTEE-red)
+![SREcon APAC 23 PC](https://img.shields.io/badge/SREcon23APAC-PROGRAMME%20COMMITTEE-red)
+ 
 ## Profile photo
 
 * [1214x1817](https://github.com/ymotongpoo/ymotongpoo/blob/master/yoshifumi_1214x1817.jpg)
