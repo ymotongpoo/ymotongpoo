@@ -10,12 +10,12 @@
 
 ## Shrot bio
 
-Yoshi Yamaguchi is Senior Developer Relations Engineer at Google Cloud, where he focuses on Observability and SRE. Yoshi has been leading and supporting developer communities  Japan over 10 years.
+Yoshi Yamaguchi is Senior Developer Relations Engineer at Google Cloud, where he focuses on Observability and SRE. Yoshi has been leading and supporting developer communities  Japan over 15 years.
 (29 words, 188 characters)
 
 ## Mid bio
 
-Yoshi Yamaguchi is Senior Developer Relations Engineer at Google Cloud, where he focuses on Observability and SRE; Especially Yoshi is working mainly on Cloud Operations product suite, OpenTelemetry and other Observability related OSS. Yoshi has been leading and supporting developer communities in Japan over 10 years. Yoshi also has been working on technical book translations and has published a handful of books of Go, Observability and SRE. Previously, Yoshi was in Developer Relations team for many client side technologies, where he drove a lot of launch projects of new products such as YouTube, Chromecast, Android, Google Assistant, et al.
+Yoshi Yamaguchi is Senior Developer Relations Engineer at Google Cloud, where he focuses on Observability and SRE; Especially Yoshi is working mainly on Cloud Operations product suite, OpenTelemetry and other Observability related OSS. Yoshi has been leading and supporting developer communities in Japan over 15 years. Yoshi also has been working on technical book translations and has published a handful of books of Go, Observability and SRE. Previously, Yoshi was in Developer Relations team for many client side technologies, where he drove a lot of launch projects of new products such as YouTube, Chromecast, Android, Google Assistant, et al.
 (99 words, 649 characters)
 
 ## プロフィール（小）
