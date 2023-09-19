@@ -10,7 +10,7 @@
 ### Japan
 
 * August 21st: サービスレベル目標で運用と開発とビジネスを加速させる！ at [Cloud Operator Days Tokyo 2023](https://cloudopsdays.com/)
-* August 3rd: 継続的プロファイルによる大規模アプリケーションの性能改善 at [CloudNative Days Fukuoka 2023](https://event.cloudnativedays.jp/cndf2023/) [[video](https://event.cloudnativedays.jp/cndf2023/talks/1840)] [[slide](https://speakerdeck.com/ymotongpoo/improving-massive-application-clusters-with-continuous-profiling)]
+* August 3rd: [継続的プロファイルによる大規模アプリケーションの性能改善](https://speakerdeck.com/ymotongpoo/improving-massive-application-clusters-with-continuous-profiling) at [CloudNative Days Fukuoka 2023](https://event.cloudnativedays.jp/cndf2023/) [[video](https://event.cloudnativedays.jp/cndf2023/talks/1840)]
 * July 25th: [SLOは何を実現するのか](https://speakerdeck.com/ymotongpoo/what-does-slo-achieve) at [SLO サービスレベル目標 - Forkwell Library #28](https://forkwell.connpass.com/event/289336/)
 * July 13th: Four Keysを超えて〜信頼性はいかに開発生産性を高めるのか〜 at [開発生産性Conference](https://dev-productivity-con.findy-code.io/)
 * June 2nd: [Goのメモリ管理](https://speakerdeck.com/ymotongpoo/memory-management-in-go) at [Go Conference 2023](https://gocon.jp/2023/)
