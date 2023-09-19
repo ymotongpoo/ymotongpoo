@@ -13,7 +13,7 @@
 * August 3rd: 継続的プロファイルによる大規模アプリケーションの性能改善 at [CloudNative Days Fukuoka 2023](https://event.cloudnativedays.jp/cndf2023/) [[video](https://event.cloudnativedays.jp/cndf2023/talks/1840)] [[slide](https://speakerdeck.com/ymotongpoo/improving-massive-application-clusters-with-continuous-profiling)]
 * July 25th: [SLOは何を実現するのか](https://speakerdeck.com/ymotongpoo/what-does-slo-achieve) at [SLO サービスレベル目標 - Forkwell Library #28](https://forkwell.connpass.com/event/289336/)
 * July 13th: Four Keysを超えて〜信頼性はいかに開発生産性を高めるのか〜 at [開発生産性Conference](https://dev-productivity-con.findy-code.io/)
-* June 2nd: Goのメモリ管理 at [Go Conference 2023](https://gocon.jp/2023/)
+* June 2nd: [Goのメモリ管理](https://speakerdeck.com/ymotongpoo/memory-management-in-go) at [Go Conference 2023](https://gocon.jp/2023/)
 * April 18th: DevOps最新動向 高パフォーマンスな技術組織の秘訣 at [DevOpsDays Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/)
 * February 2nd: オブザーバビリティ・エンジニアリングの読みどころ at [Jagu'e'r Observability/SRE分科会 #4](https://jaguer.jp/observability-sre-%e5%88%86%e7%a7%91%e4%bc%9a-%e3%80%90%e7%ac%ac4%e5%9b%9e%e3%80%91meetup%e9%96%8b%e5%82%ac%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/)
 
