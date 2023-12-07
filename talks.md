@@ -4,11 +4,15 @@
 
 ### Global
 
+* December 1st: "Continuous profiling to improve performance of large application" at [DevFest KL 2023](https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-devfest-2023-kuala-lumpur/)
 * September 17th: Four keys and beyond: Reliability at [DevOps Talks Conference Singapore 2023](https://devops.talksplus.com/archive/2023_singapore/index)
 * March 28th: [Reliability Essentials: Why service-level metrics are key to drive good system health?](https://www.youtube.com/live/ykX8bvhM60Y?feature=share&t=2506) at [Scaleup spotlight](https://cloudonair.withgoogle.com/events/apac-scaleup-spotlight)
 
 ### Japan
 
+* December 11th: マイクロサービスの信頼性を支えるオブザーバビリティとサービスメッシュ at [CloudNative Days Tokyo 2023](https://event.cloudnativedays.jp/cndt2023)
+* November 15th: SLO 監視でサービス品質を一段上げる！Cloud Monitoring 活用法 at [Gogole Cloud Next Tokyo 2023](
+* September 29th: [信頼性目標とシステムアーキテクチャー](https://speakerdeck.com/ymotongpoo/reliability-objective-and-system-architecture) at [SRE NEXT 2023](https://sre-next.dev/2023/) [[video](https://www.youtube.com/watch?v=EwtcIRGqKxM)]
 * August 21st: サービスレベル目標で運用と開発とビジネスを加速させる！ at [Cloud Operator Days Tokyo 2023](https://cloudopsdays.com/)
 * August 3rd: [継続的プロファイルによる大規模アプリケーションの性能改善](https://speakerdeck.com/ymotongpoo/improving-massive-application-clusters-with-continuous-profiling) at [CloudNative Days Fukuoka 2023](https://event.cloudnativedays.jp/cndf2023/) [[video](https://event.cloudnativedays.jp/cndf2023/talks/1840)]
 * July 25th: [SLOは何を実現するのか](https://speakerdeck.com/ymotongpoo/what-does-slo-achieve) at [SLO サービスレベル目標 - Forkwell Library #28](https://forkwell.connpass.com/event/289336/)
