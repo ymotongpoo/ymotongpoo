@@ -12,7 +12,10 @@
 
 * December 11th: マイクロサービスの信頼性を支えるオブザーバビリティとサービスメッシュ at [CloudNative Days Tokyo 2023](https://event.cloudnativedays.jp/cndt2023)
 * November 15th: SLO 監視でサービス品質を一段上げる！Cloud Monitoring 活用法 at [Gogole Cloud Next Tokyo 2023](https://cloudonair.withgoogle.com/events/next-tokyo?talk=d1-app-05)
+* October 29th: Pythonアプリケーションのオブザーバビリティ強化 at [PyCon APAC 2023](https://2023-apac.pycon.jp/timetable?id=HUBWPQ) [[video](https://www.youtube.com/live/xXX7u1Xdkmk?si=1qUg40jTvTpsmyAE&t=6572)]
+* October 19th: [OpenTelemetryのここ 1年 4年弱の流れ](https://speakerdeck.com/ymotongpoo/opentelemetry-in-last-4-plus-years) at [OpenTelemetry meetup 2023-10](https://opentelemetry.connpass.com/event/296353/)
 * September 29th: [信頼性目標とシステムアーキテクチャー](https://speakerdeck.com/ymotongpoo/reliability-objective-and-system-architecture) at [SRE NEXT 2023](https://sre-next.dev/2023/) [[video](https://www.youtube.com/watch?v=EwtcIRGqKxM)]
+* August 23rd: 信頼性を高めてシステムを安定運用する話 at [みんなで考えるシステムの安定運用Night〜信頼性から紐解くこれからの開発〜](https://findy.connpass.com/event/292034/)
 * August 21st: サービスレベル目標で運用と開発とビジネスを加速させる！ at [Cloud Operator Days Tokyo 2023](https://cloudopsdays.com/)
 * August 3rd: [継続的プロファイルによる大規模アプリケーションの性能改善](https://speakerdeck.com/ymotongpoo/improving-massive-application-clusters-with-continuous-profiling) at [CloudNative Days Fukuoka 2023](https://event.cloudnativedays.jp/cndf2023/) [[video](https://event.cloudnativedays.jp/cndf2023/talks/1840)]
 * July 25th: [SLOは何を実現するのか](https://speakerdeck.com/ymotongpoo/what-does-slo-achieve) at [SLO サービスレベル目標 - Forkwell Library #28](https://forkwell.connpass.com/event/289336/)
