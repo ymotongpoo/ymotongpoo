@@ -7,6 +7,7 @@ I'm a Developer Relations Engineer at Google Cloud. I'm enjoying working for Obs
  
 ## Profile photo
 
+* [1200x1200](https://github.com/ymotongpoo/ymotongpoo/blob/master/yoshifumi_1200x1200.png)
 * [1214x1817](https://github.com/ymotongpoo/ymotongpoo/blob/master/yoshifumi_1214x1817.jpg)
 * [400x400](https://github.com/ymotongpoo/ymotongpoo/blob/master/yoshfiumi_400x400.jpg)
 * [1961x1961](https://github.com/ymotongpoo/ymotongpoo/blob/master/yoshifumi_1961x1961.jpg)
