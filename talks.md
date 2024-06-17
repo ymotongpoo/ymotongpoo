@@ -1,5 +1,15 @@
 # Talks
 
+## 2024 
+
+### Global
+
+* February 25th: ["Enhance your Python application observability with OpenTelemetry"]() at [PyCon Phillippines 2024](https://pycon-2024.python.ph/)
+
+### Japan
+
+* June 15th: [テレメトリーシグナルの相関、してますか？第一原理からのデバッグを支える計装](https://event.cloudnativedays.jp/cnds2024/talks/2243) at [CloudNative Days Summer 2024](https://event.cloudnativedays.jp/cnds2024)
+
 ## 2023
 
 ### Global
