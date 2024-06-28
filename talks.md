@@ -8,7 +8,8 @@
 
 ### Japan
 
-* June 15th: [テレメトリーシグナルの相関、してますか？第一原理からのデバッグを支える計装](https://event.cloudnativedays.jp/cnds2024/talks/2243) at [CloudNative Days Summer 2024](https://event.cloudnativedays.jp/cnds2024)
+* June 15th: [テレメトリーシグナルの相関、してますか？第一原理からのデバッグを支える計装](https://event.cloudnativedays.jp/cnds2024/talks/2243) at [CloudNative Days Summer 2024](https://event.cloudnativedays.jp/cnds2024) [[slides](https://speakerdeck.com/ymotongpoo/do-you-utilize-telemetry-correlations)]
+* August 3rd: [オブザーバビリティのマクロからミクロまで〜あるいはなぜ技術書を翻訳するのか](https://sre-next.dev/2024/schedule/#jp091) at [SRE NEXT 2024](https://sre-next.dev/2024/schedule/#jp091)
 
 ## 2023
 
