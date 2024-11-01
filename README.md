@@ -1,6 +1,6 @@
 # Hi! I'm Yoshi (@ymotongpoo)
 
-I'm a Developer Relations Engineer at Google Cloud. I'm enjoying working for Observability and SRE practices spaces. You can find me on [Twitter](https://twitter.com/ymotongpoo) and [LinkedIn](https://www.linkedin.com/in/yoshifumiyamaguchi/).
+I'm a Developer Advocate at AWS. ex-Google. I'm enjoying working for Observability and SRE practices spaces. You can find me on [Twitter](https://twitter.com/ymotongpoo) and [LinkedIn](https://www.linkedin.com/in/yoshifumiyamaguchi/).
 
 ![SREcon APAC 22 PC](https://img.shields.io/badge/SREcon22APAC-PROGRAMME%20COMMITTEE-red)
 ![SREcon APAC 23 PC](https://img.shields.io/badge/SREcon23APAC-PROGRAMME%20COMMITTEE-red)
