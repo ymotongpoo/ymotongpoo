@@ -8,8 +8,10 @@
 
 ### Japan
 
+* October 22nd: オブザーバビリティの展望 at [Mackerel Tech Day](https://mackerelio.connpass.com/event/328504/)
+* September 18th: "Getting Started with OpenTelemetry for Gophers" at [Golang Meetup September Edition](https://www.meetup.com/golang-tokyo/events/303050153/)
+* August 4th: [オブザーバビリティのマクロからミクロまで〜あるいはなぜ技術書を翻訳するのか](https://sre-next.dev/2024/schedule/#jp091) at [SRE Next](https://sre-next.dev/2024/) [[slides](https://speakerdeck.com/ymotongpoo/observability-from-macro-to-micro)] [[video](https://youtu.be/s_V9EPWwQRE)]
 * June 15th: [テレメトリーシグナルの相関、してますか？第一原理からのデバッグを支える計装](https://event.cloudnativedays.jp/cnds2024/talks/2243) at [CloudNative Days Summer 2024](https://event.cloudnativedays.jp/cnds2024) [[slides](https://speakerdeck.com/ymotongpoo/do-you-utilize-telemetry-correlations)]
-* August 3rd: [オブザーバビリティのマクロからミクロまで〜あるいはなぜ技術書を翻訳するのか](https://sre-next.dev/2024/schedule/#jp091) at [SRE NEXT 2024](https://sre-next.dev/2024/schedule/#jp091)
 
 ## 2023
 
