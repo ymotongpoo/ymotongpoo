@@ -1,5 +1,19 @@
 # Talks
 
+## 2025 
+
+### Japan
+
+* September 3rd: "Kiroのご紹介" at [Kiro Meetup Japan #1](https://findy.connpass.com/event/365956/)
+* July 23rd: "Amazon CloudWatchのメトリクスインターバルについて" at [JAWS-UG SRE #13 つよつよSREの秘伝のタレ](https://jawsug-sre.connpass.com/event/358781/) [[slides](https://speakerdeck.com/ymotongpoo/metrics-interval-matters)] [[video](https://www.youtube.com/live/z5381MJpBzU?si=hYRjdoU4GocvK81O&t=4818)]
+* July 8th: "生成AI時代のSRE" at [JAWS-UG Kyoto AWS Summit Japan 2025 re:Cap LT大会](https://jawsug-kyoto.connpass.com/event/359008/) [slides](https://speakerdeck.com/ymotongpoo/sre-in-gen-ai-era)
+* June 15th: "OpenTelemetry collector internals" at [Japan Community Day at KubeCon + CloudNativeCon Japan 2025](https://community.cncf.io/events/details/cncf-cloud-native-community-japan-presents-japan-community-day-at-kubecon-cloudnativecon-japan-2025/) [[slides](https://speakerdeck.com/ymotongpoo/opentelemetry-collector-internals)] [[video](https://www.youtube.com/live/s9Im7F_UlLo?si=BSSAeRUzs8XmpnTT&t=10134)]
+* June 6th: "AIとSREの未来" at [JAWS-UG Yamanachi #6](https://jaws-ug-yamanashi.connpass.com/event/354570/) [[slides](https://speakerdeck.com/ymotongpoo/ai-and-sre)] [[video](https://www.youtube.com/live/cqas5Det1eM?si=LViayaG5rF35dF2C)]
+* May 17th: "Amazon CloudWatch Application Signalsではじめるバーンレートアラーム" at JAWS-UG DE&I + AWS Startup Community
+* April 16th: "Amazon CloudWatch Application Signalsではじめるバーンレートアラーム" at [AWS Startup Loft 春のObservability祭り](https://bit.ly/3EZZaAD) [[slides](https://speakerdeck.com/ymotongpoo/burn-rate-alarm-with-amazon-cloudwatch-application-signals)]
+* April 4th: "Amazon Q Developer CLIでもコンテキストを使おう！" at [JAWS-UG Yamanashi #5](https://jaws-ug-yamanashi.connpass.com/event/346675/) [[slides](https://speakerdeck.com/ymotongpoo/use-context-in-amazon-q-cli)] [[video](https://youtu.be/yc_71sO388E?si=Ej7-Zkw69GV5wJww&t=4609)]
+* March 1st: "サイト信頼性エンジニアリングとAmazon Web Services" at [JAWS DAYS 2025](https://jawsdays2025.jaws-ug.jp/) [[slides](https://speakerdeck.com/ymotongpoo/sre-and-aws)] [[video](https://www.youtube.com/watch?v=ttQLsys3wwk)]
+
 ## 2024 
 
 ### Global
