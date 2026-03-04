@@ -4,6 +4,7 @@
 
 ### Japan
 
+* February 14th: "生成AI時代に私たちにできること" at [JAWS-UG山梨 【第10回】勉強会](https://jaws-ug-yamanashi.connpass.com/event/381499/)
 * January 31st: "[生成AI時代にこそ求められるSRE](https://speakerdeck.com/ymotongpoo/sre-for-gen-ai-era)" at [SRE Kaigi 2026](https://2026.srekaigi.net/) [[slides](https://speakerdeck.com/ymotongpoo/sre-for-gen-ai-era)] [[video](https://www.youtube.com/watch?v=E7pTWPaCgsM)]
 
 ## 2025
