@@ -1,6 +1,16 @@
 # Talks
 
-## 2025 
+## 2026
+
+### Japan
+
+* January 31st: "[生成AI時代にこそ求められるSRE](https://speakerdeck.com/ymotongpoo/sre-for-gen-ai-era)" at [SRE Kaigi 2026](https://2026.srekaigi.net/) [[slides](https://speakerdeck.com/ymotongpoo/sre-for-gen-ai-era)] [[video](https://www.youtube.com/watch?v=E7pTWPaCgsM)]
+
+## 2025
+
+### Global
+
+* November 2nd: "Utilize another telemetry data for faster improvement with AI agent" at [AWS Community Day 2025 Hong Kong](https://awscommunity.hk/)
 
 ### Japan
 
@@ -14,7 +24,7 @@
 * April 4th: "Amazon Q Developer CLIでもコンテキストを使おう！" at [JAWS-UG Yamanashi #5](https://jaws-ug-yamanashi.connpass.com/event/346675/) [[slides](https://speakerdeck.com/ymotongpoo/use-context-in-amazon-q-cli)] [[video](https://youtu.be/yc_71sO388E?si=Ej7-Zkw69GV5wJww&t=4609)]
 * March 1st: "サイト信頼性エンジニアリングとAmazon Web Services" at [JAWS DAYS 2025](https://jawsdays2025.jaws-ug.jp/) [[slides](https://speakerdeck.com/ymotongpoo/sre-and-aws)] [[video](https://www.youtube.com/watch?v=ttQLsys3wwk)]
 
-## 2024 
+## 2024
 
 ### Global
 
@@ -50,7 +60,6 @@
 * June 2nd: [Goのメモリ管理](https://speakerdeck.com/ymotongpoo/memory-management-in-go) at [Go Conference 2023](https://gocon.jp/2023/)
 * April 18th: DevOps最新動向 高パフォーマンスな技術組織の秘訣 at [DevOpsDays Tokyo](https://devopsdays.org/events/2023-tokyo/welcome/)
 * February 2nd: オブザーバビリティ・エンジニアリングの読みどころ at [Jagu'e'r Observability/SRE分科会 #4](https://jaguer.jp/observability-sre-%e5%88%86%e7%a7%91%e4%bc%9a-%e3%80%90%e7%ac%ac4%e5%9b%9e%e3%80%91meetup%e9%96%8b%e5%82%ac%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%ef%bc%81/)
-
 
 ## 2022
 
