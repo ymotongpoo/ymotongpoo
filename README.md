@@ -22,6 +22,8 @@ Find the list of [talks](https://github.com/ymotongpoo/ymotongpoo/blob/master/ta
 
 ## Event organizing
 
+* [KubeCon + CloudNativeCon Japan 2026](https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/)
+  * A member of Program Committee
 * [SREcon Asia/Pacific 2023](https://www.usenix.org/conference/srecon23apac)
   * A member of Program Committee
 * [SREcon Asia/Pacific 2022](https://www.usenix.org/conference/srecon22apac)
