@@ -5,7 +5,7 @@
 - Name; Yoshi Yamaguchi
 - Title: Staff Developer Advocate, Grafana Labs
 
-- 部署名/タイトル: グラファナラボ日本合同会社 スタッフデベロッパーアドボケイト
+- 部署名/タイトル: グラファナラボジャパン合同会社 スタッフデベロッパーアドボケイト
 - 氏名: 山口能迪　（読み:　やまぐちよしふみ）
 
 ## Shrot bio
@@ -19,10 +19,10 @@ Yoshi Yamaguchi is Staff Developer Advocate at Grafana Labs, where he focuses on
 
 ## プロフィール（小）
 
-グラファナラボ日本合同会社スタッフデベロッパーアドボケイト。Grafana CloudとGrafanaスタックの普及と技術支援を担当し、特にオブザーバビリティ、SRE、DevOpsといった領域を専門とする。
+グラファナラボジャパン合同会社スタッフデベロッパーアドボケイト。Grafana CloudとGrafanaスタックの普及と技術支援を担当し、特にオブザーバビリティ、SRE、DevOpsといった領域を専門とする。
 （104文字）
 
 ## プロフィール（中）
 
-グラファナラボ日本合同会社スタッフデベロッパーアドボケイト。Grafana CloudとGrafanaスタックの普及と技術支援を担当し、特にオブザーバビリティ、SRE、DevOpsといった領域を担当。OpenTelemetryやGoのコミュニティの支援も活発に行っている。「入門OpenTelemetry」「SREをはじめよう」「効率的なGo」「SLO サービスレベル目標」「オブザーバビリティ・エンジニアリング」翻訳、「SREの探求」監訳をはじめ、技術書の翻訳に多数関わる。
+グラファナラボジャパン合同会社スタッフデベロッパーアドボケイト。Grafana CloudとGrafanaスタックの普及と技術支援を担当し、特にオブザーバビリティ、SRE、DevOpsといった領域を担当。OpenTelemetryやGoのコミュニティの支援も活発に行っている。「入門OpenTelemetry」「SREをはじめよう」「効率的なGo」「SLO サービスレベル目標」「オブザーバビリティ・エンジニアリング」翻訳、「SREの探求」監訳をはじめ、技術書の翻訳に多数関わる。
 （239文字）
