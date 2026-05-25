@@ -14,7 +14,7 @@ Yoshi Yamaguchi is Staff Developer Advocate at Grafana Labs, where he focuses on
 
 ## Mid bio
 
-Yoshi Yamaguchi is Staff Developer Advocate at Grafana Labs, where he focuses on Observability and SRE; Especially Yoshi is working mainly on Cloud Operations product suite, OpenTelemetry and other Observability related OSS. Yoshi has been leading and supporting developer communities in Japan over 15 years. Yoshi also has been working on technical book translations and has published a handful of books of Go, Observability and SRE. Previously, Yoshi was in Developer Relations team at Google and AWS, where he has led the advocacy of relevant technologies in those organizations from the surface of client side to the bottom of server side.
+Yoshi Yamaguchi is Staff Developer Advocate at Grafana Labs, where he focuses on Observability and SRE; Especially Yoshi is working mainly on Grafana OSS and Grafana Cloud product suite, OpenTelemetry and other Observability related OSS. Yoshi has been leading and supporting developer communities in Japan over 15 years. Yoshi also has been working on technical book translations and has published a handful of books of Go, Observability and SRE. Previously, Yoshi was in Developer Relations team at Google and AWS, where he has led the advocacy of relevant technologies in those organizations from the surface of client side to the bottom of server side.
 (101 words, 643 characters)
 
 ## プロフィール（小）
